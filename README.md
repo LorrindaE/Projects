@@ -1,2 +1,2 @@
 # Projects
- Various data nalysis projects I've worked on
+ Various data analysis projects I've worked on
